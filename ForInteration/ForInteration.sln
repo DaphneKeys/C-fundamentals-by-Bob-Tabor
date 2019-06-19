@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForInteration", "ForInteration\ForInteration.csproj", "{11F206CD-2258-4D68-8409-043084675C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F206CD-2258-4D68-8409-043084675C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F206CD-2258-4D68-8409-043084675C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F206CD-2258-4D68-8409-043084675C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F206CD-2258-4D68-8409-043084675C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78BDC02F-C37D-4DDF-993D-DB6EA476DFFB}
+	EndGlobalSection
+EndGlobal

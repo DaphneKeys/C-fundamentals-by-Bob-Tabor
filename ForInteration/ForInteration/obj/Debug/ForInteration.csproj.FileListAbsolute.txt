@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ForInteration\ForInteration\obj\Debug\ForInteration.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ForInteration\ForInteration\obj\Debug\ForInteration.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ForInteration\ForInteration\bin\Debug\ForInteration.exe.config
+C:\Users\user\source\repos\ForInteration\ForInteration\bin\Debug\ForInteration.exe
+C:\Users\user\source\repos\ForInteration\ForInteration\bin\Debug\ForInteration.pdb
+C:\Users\user\source\repos\ForInteration\ForInteration\obj\Debug\ForInteration.exe
+C:\Users\user\source\repos\ForInteration\ForInteration\obj\Debug\ForInteration.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+C:\Users\user\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+C:\Users\user\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+C:\Users\user\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+C:\Users\user\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb

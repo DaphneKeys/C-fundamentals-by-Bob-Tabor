@@ -8,7 +8,7 @@ namespace UnderstandingScope
 {
     class Program
     {
-        //Creating a private field. Sort of like a property, private in nature but is available to all. 
+        //Creating a private field. Sort of like a property, private in nature but is available to all of the members of a class. 
         private static string k = ""; 
         static void Main(string[] args)
         {

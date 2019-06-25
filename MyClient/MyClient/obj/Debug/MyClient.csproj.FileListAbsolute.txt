@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\user\source\repos\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\user\source\repos\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\user\source\repos\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\user\source\repos\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\user\source\repos\MyClient\MyClient\obj\Debug\MyClient.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyClient\MyClient\obj\Debug\MyClient.csproj.CopyComplete
+C:\Users\user\source\repos\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\user\source\repos\MyClient\MyClient\obj\Debug\MyClient.pdb

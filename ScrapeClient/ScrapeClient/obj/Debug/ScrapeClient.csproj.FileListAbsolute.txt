@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\ScrapeClient\ScrapeClient\obj\Debug\ScrapeClient.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ScrapeClient\ScrapeClient\obj\Debug\ScrapeClient.csproj.CoreCompileInputs.cache

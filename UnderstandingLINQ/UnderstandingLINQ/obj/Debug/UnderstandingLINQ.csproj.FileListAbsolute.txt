@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe.config
+C:\Users\user\source\repos\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
+C:\Users\user\source\repos\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
+C:\Users\user\source\repos\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.exe
+C:\Users\user\source\repos\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.pdb

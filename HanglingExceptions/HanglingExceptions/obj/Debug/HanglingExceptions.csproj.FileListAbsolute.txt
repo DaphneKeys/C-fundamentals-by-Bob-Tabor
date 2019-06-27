@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\HanglingExceptions\HanglingExceptions\bin\Debug\HanglingExceptions.exe.config
+C:\Users\user\source\repos\HanglingExceptions\HanglingExceptions\bin\Debug\HanglingExceptions.exe
+C:\Users\user\source\repos\HanglingExceptions\HanglingExceptions\bin\Debug\HanglingExceptions.pdb
+C:\Users\user\source\repos\HanglingExceptions\HanglingExceptions\obj\Debug\HanglingExceptions.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HanglingExceptions\HanglingExceptions\obj\Debug\HanglingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HanglingExceptions\HanglingExceptions\obj\Debug\HanglingExceptions.exe
+C:\Users\user\source\repos\HanglingExceptions\HanglingExceptions\obj\Debug\HanglingExceptions.pdb

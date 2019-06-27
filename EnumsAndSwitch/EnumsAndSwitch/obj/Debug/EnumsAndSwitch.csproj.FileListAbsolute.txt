@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+C:\Users\user\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+C:\Users\user\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+C:\Users\user\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+C:\Users\user\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb
